@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when":"timer_start",
+        "model": {
+          "type": "minecraft:model",
+          "model": "challenge:play"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/emerald"
+    }
+  }
+}

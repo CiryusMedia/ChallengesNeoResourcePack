@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when":"invisible",
+        "model": {
+          "type": "minecraft:model",
+          "model": "challenge:invis"
+        }
+      },
+      {
+        "when": "line_filler",
+        "model": {
+          "type": "minecraft:model",
+          "model": "challenge:line_filler"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/red_stained_glass_pane"
+    }
+  }
+}

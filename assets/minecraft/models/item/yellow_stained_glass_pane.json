@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "item/custom/invis"
+      "model": "challenge:item/invis"
     },
 	{
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "item/custom/gui/line_filler"
+      "model": "challenge:item/gui/line_filler"
     }
   ]
 }
