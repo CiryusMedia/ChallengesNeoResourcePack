@@ -7,14 +7,14 @@
         "when":"invisible",
         "model": {
           "type": "minecraft:model",
-          "model": "challenge:invis"
+          "model": "challenge:item/invis"
         }
       },
       {
         "when": "line_filler",
         "model": {
           "type": "minecraft:model",
-          "model": "challenge:line_filler"
+          "model": "challenge:item/gui/line_filler"
         }
       }
     ],

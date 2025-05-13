@@ -7,7 +7,7 @@
         "when":"timer_stop",
         "model": {
           "type": "minecraft:model",
-          "model": "challenge:stop"
+          "model": "challenge:item/stop"
         }
       }
     ],

@@ -7,7 +7,7 @@
         "when":"timer_start",
         "model": {
           "type": "minecraft:model",
-          "model": "challenge:play"
+          "model": "challenge:item/play"
         }
       }
     ],
