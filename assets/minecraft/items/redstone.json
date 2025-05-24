@@ -13,7 +13,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/barrier"
+      "model": "minecraft:item/redstone"
     }
   }
 }
